@@ -1,0 +1,7 @@
+pyfiglet
+colorama
+requests
+whois
+tabulate
+pytz
+cryptography
