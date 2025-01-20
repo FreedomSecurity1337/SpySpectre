@@ -1,7 +1,7 @@
 
 # SpySpectre 2025
 
-![Screenshot](screenshot.jpg)
+![logo](screenshot.jpg)
 
 **SpySpectre 2025** is a powerful Information Gathering tool, built to provide valuable data and insights about domains, IPs, SSL certificates, and more. This tool is designed to help security professionals, researchers, and pentesters gather detailed information about their target systems.
 
