@@ -1,6 +1,6 @@
 
 # SpySpectre 2025
-![SpySpectre](https://raw.githubusercontent.com/FreedomSecurity1337/SpySpectre/main/screenshot.jpg)
+![SpySpectre](https://raw.githubusercontent.com/FreedomSecurity1337/SpySpectre/refs/heads/main/screenshot.jpg)
 
 **SpySpectre 2025** is a powerful Information Gathering tool, built to provide valuable data and insights about domains, IPs, SSL certificates, and more. This tool is designed to help security professionals, researchers, and pentesters gather detailed information about their target systems.
 
